@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-akshay123&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-akshay123" /> </p>
 
 
-- 🌱 I’m currently learning **Express.js,Nodejs**
+- 🌱 I’m currently learning **React.js,Nodejs**
 
 - 💬 Ask me about **CPP ,C , JAVA ,HTML ,CSS ,JS**
 
