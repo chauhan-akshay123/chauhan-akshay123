@@ -1,3 +1,4 @@
+![logo](https://github.com/chauhan-akshay123/chauhan-akshay123/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Chauhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
