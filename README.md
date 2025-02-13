@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chauhanakshay395](https://medium.com/@chauhanakshay395)
 
-- 💬 Ask me about **Node.js, MongoDB, SQL, Python, Java, C++, Flask, HTm**
+- 💬 Ask me about **Node.js, MongoDB, SQL, Python, Java, C++, Flask, HTML, Databases**
 
 - 📫 How to reach me **chauhanakshay395@gmail.com**
 
