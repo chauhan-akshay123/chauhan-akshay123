@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Chauhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="center"  alt="Coding"  width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center"  alt="Coding"  width="700" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://github.com/chauhan-akshay123/chauhan-akshay123/blob/main/github_profile.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-akshay123&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-akshay123" /> </p>
 
