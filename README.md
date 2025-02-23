@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Enhancing my backend development skills in JavaScript and Python**
 
-- 🌱 I’m currently learning **Building scalable APIs and improving my database management skills**
+- 🌱 I’ currently learning **Building scalable APIs and improving my database management skills**
 
 - 📝 I regularly write articles on [https://medium.com/@chauhanakshay395](https://medium.com/@chauhanakshay395)
 
